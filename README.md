@@ -1,7 +1,3 @@
-Claro! Para garantir que a estilização seja mantida no GitHub, vamos ajustar o README para usar formatação Markdown que o GitHub reconhece e renderiza corretamente.
-
-Aqui está o README ajustado:
-
 #  Amigo Secreto Interativo 
 
 ##  Descrição
@@ -31,17 +27,3 @@ Este projeto é uma aplicação web divertida e interativa para organizar sortei
 4.  Quando todos os amigos estiverem na lista, clique em "Sortear amigo". 
 5.  Veja os pares sorteados na lista de resultados. 
 6.  Se precisar, clique em "Limpar" para recomeçar. 
-
-##  Contribuição
-
-Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades! Basta criar um fork deste repositório, fazer suas alterações e enviar um pull request. 
-
-##  Licença
-
-Este projeto está sob a licença [MIT](link-para-a-licenca). 
-
-##  Contato
-
-Se tiver alguma dúvida ou sugestão, entre em contato: [endereço de e-mail removido]. 
-
-Divirta-se com o sorteio do seu amigo secreto! 
