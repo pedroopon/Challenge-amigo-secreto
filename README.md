@@ -26,4 +26,7 @@ Este projeto é uma aplicação web divertida e interativa para organizar sortei
 3.  Digite os nomes dos seus amigos no campo de entrada e clique em "Adicionar". ✍️
 4.  Quando todos os amigos estiverem na lista, clique em "Sortear amigo". 
 5.  Veja os pares sorteados na lista de resultados. 
-6.  Se precisar, clique em "Limpar" para recomeçar. 
+6.  Se precisar, clique em "Limpar" para recomeçar.
+
+##  link para testar 👇
+https://challenge-amigo-secreto-five-pi.vercel.app/
